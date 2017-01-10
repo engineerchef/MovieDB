@@ -56,7 +56,7 @@ This app uses The Movie Database API to retrieve movies. You must provide your o
 
 ## Project License
 ```
-Copyright (C) 2017 Anupam Das
+Copyright (C) 2017 Tolga DURAN
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
