@@ -1,4 +1,4 @@
-[![Download MovieDB](https://img.shields.io/sourceforge/dt/moviedb-app-for-android.svg)](https://sourceforge.net/projects/moviedb-app-for-android/files/latest/download)
+[![Download MovieDB](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/moviedb-app-for-android/files/latest/download)
 
 # MovieDB
 
