@@ -21,7 +21,7 @@ android {
         abortOnError false
     }
     buildTypes.each {
-        it.buildConfigField 'String', 'MOVIE_DB_API_KEY', '"f4639740b6d98af52d8fc83af307d5fa"'
+        it.buildConfigField 'String', 'MOVIE_DB_API_KEY', '"TMDB MOVIE API KEY HERE"'
     }
 }
 repositories {
