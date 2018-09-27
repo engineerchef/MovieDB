@@ -1,4 +1,4 @@
-package com.tolgaduran.moviedb.activity;
+package com.tolgaduran.moviedb2.activity;
 /*
  * Copyright (C) 2017 Tolga DURAN
  *
@@ -28,8 +28,8 @@ import android.support.annotation.NonNull;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-import com.tolgaduran.moviedb.R;
-import com.tolgaduran.moviedb.data.MovieContract;
+import com.tolgaduran.moviedb2.R;
+import com.tolgaduran.moviedb2.data.MovieContract;
 
 import java.io.File;
 import java.util.Arrays;
