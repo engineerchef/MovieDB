@@ -23,7 +23,7 @@ import android.provider.BaseColumns;
 
 public class MovieContract {
 
-    public static final String CONTENT_AUTHORITY = "work.technie.popularmovies";
+    public static final String CONTENT_AUTHORITY = "com.tolgaduran.moviedb";
     public static final String PATH_MOVIES = "movies";
     public static final String PATH_VIDEOS = "videos";
     public static final String PATH_SIMILAR_MOVIES = "similar_movies";
